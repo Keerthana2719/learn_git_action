@@ -11,7 +11,7 @@ class _SampletestState extends State<Sampletest> {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: Text("Sample ui (sample text changed then push)"),),
+      appBar: AppBar(title: Text("Sample ui (sample text changed then push with actions)"),),
     );
   }
 }
